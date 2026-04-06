@@ -124,10 +124,14 @@ Navigate to `http://localhost:5173`.
 ## 📸 Screenshots
 
 ### Landing Page
-![Landing Page](docs/images/landing.png) *(Placeholder)*
+<img width="1470" height="834" alt="Screenshot 2026-04-06 at 4 35 08 PM" src="https://github.com/user-attachments/assets/161aa1df-4c6e-440d-a8ab-e6bdbb62af36" />
+<img width="1470" height="712" alt="Screenshot 2026-04-06 at 4 35 46 PM" src="https://github.com/user-attachments/assets/897775cb-39dc-46f8-ba26-f0877275f3e9" />
+<img width="1470" height="668" alt="Screenshot 2026-04-06 at 4 36 14 PM" src="https://github.com/user-attachments/assets/bbbd30a9-b063-4127-b6fd-9825582aaa0c" />
+
 
 ### Dashboard & Analysis
-![Dashboard View](docs/images/dashboard.png) *(Placeholder)*
+<img width="1470" height="833" alt="Screenshot 2026-04-06 at 4 37 22 PM" src="https://github.com/user-attachments/assets/94c2d487-4801-42c0-a923-79db6297b4fc" />
+
 
 ---
 
